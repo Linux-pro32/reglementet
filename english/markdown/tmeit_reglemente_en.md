@@ -365,6 +365,20 @@ Is responsible for:\
 **that** pictures and videos are taken during all of TMEITs public events and published on TMEITs  social media and archived.\
 **that** TMEITs events are announced on time.\
 
+### 4.2.5 Internal\*
+
+Is responsible for TMEITs internal parties.\
+Is responsible for:\
+**that** internal parties are planned and festanmäld in good time.\
+**that** internal parties are executed and managed.
+
+### 4.2.6 Raid\*
+
+Is responsible for informing about external events.\
+Is responsible for:\
+**that** coming external events are known and hyped.\
+**that** coming external events are presented during Öråd.
+
 ### 4.3 Event specific roles
 
 ### 4.3.1 Selection and requirements
